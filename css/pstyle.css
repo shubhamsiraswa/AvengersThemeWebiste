@@ -1,0 +1,92 @@
+Body{
+    margin-bottom: 20px;
+    color: black;
+    color: #5a5a5a
+   
+  
+}
+.btn{
+    background-color: black !important;
+    color: white !important;
+}
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+    
+}
+
+
+.container-fluid{
+    margin: 0 auto;
+    padding-right: 30px;
+    padding-left: 30px;
+    
+}
+
+.navbar-wrapper .navbar{
+    width: auto;
+}
+
+.carousel{
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.carousel .item{
+    height: 500px;
+    background-color: black;
+}
+.carousel .item > img{
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    left: 0;
+    top: 50px;
+    right: 0;
+    
+}
+
+.carousel-caption >h1{
+    font-size: 50px;
+    
+}
+.carousel-caption p{
+    font-size: 15px;
+}
+.team h4{
+    text-align: center;
+    font-size: 30px;
+}
+.team .col-lg-4{
+    text-align: center;
+    padding-top: 30px;
+  
+}
+.divider{
+    margin: 40px 0;
+}
+.block h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.content{
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+footer{
+    margin: 2 110px;
+    
+}
+
+
+
+
+
+
+
